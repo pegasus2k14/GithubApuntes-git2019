@@ -3,3 +3,4 @@ Linea de Texto 2  --Agegado desde consola via https
 Linea de Texto 3  --Cambio agregado desde consola via SSH
 Linea de texto 4  --Cambio agregado desde SourceTree vias SSH
 Linea de Texto 5  --Cambio agregado desde SmartGit via SSH
+Linea de texto 6  --Agregada directamente desde GITHUB 
